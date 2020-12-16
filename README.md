@@ -1,4 +1,4 @@
-一条小团团
+For一条小团团
 
 <h1 align="center">QQRead使用说明</h1>
 
